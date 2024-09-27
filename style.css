@@ -339,9 +339,9 @@ nav {
 .join__image img {
 
     border-radius: 10px;
-    height: 380;
+    height: 380px;
 }
-.section__container price__container{
+.section__container .price__container{
     padding-top: 100px;
 }
 .join__grid {
